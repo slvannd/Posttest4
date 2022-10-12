@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Caveat:wght@400;500&family=Dancing+Script:wght@600;700&family=Permanent+Marker&display=swap');
+*{
+    background-color: #ed82a2;
+}
+
+.formpembelian{
+    float: left;
+    align-items: center;
+    font-family: 'Dancing Script', cursive;
+}
+h3{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    height: 10px;
+    margin-left: 325px;
+    color: #010101 ;
+}
+#brg{
+    width: 500px !important;
+    height: 40px !important;
+    border: solid 1px #bec6d0 !important;
+    padding: 12px 20px;
+    text-align: center;
+    margin-left:  200px;
+    background-color: whitesmoke;
+}
+#p{
+    padding: 30px 800px 30px 10px;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#jmlh{
+    width: 500px !important;
+    height: 40px !important;
+    border: solid 1px #bec6d0 !important;
+    padding: 12px 20px;
+    text-align: center;
+    margin-left:  200px;
+    background-color: whitesmoke;
+}
+
+#nm{
+    width: 500px !important;
+    height: 40px !important;
+    border: solid 1px #bec6d0 !important;
+    padding: 12px 20px;
+    text-align: center;
+    margin-left:  200px;
+    background-color: whitesmoke;
+}
+#almt{
+    width: 500px !important;
+    height: 40px !important;
+    border: solid 1px #bec6d0 !important;
+    padding: 12px 20px;
+    text-align: center;
+    margin-left:  200px;
+    background-color: whitesmoke;
+}
+
+#tlp{
+    width: 500px !important;
+    height: 40px !important;
+    border: solid 1px #bec6d0 !important;
+    padding: 12px 20px;
+    text-align: center;
+    margin-left:  200px;
+    background-color: whitesmoke;
+}
+#submit{
+    padding: 12px 20px;
+    margin: 5px 0px 10px 650px;
+    background-color:  #740f2a ;
+    border: solid 1px #bec6d0 !important;
+    float: left;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    color: whitesmoke;
+}
+
+a{
+    font-size: 19px;
+   margin: 120px 58px 0px 210px;
+    text-decoration: none;
+    margin-top: 100px;
+}
